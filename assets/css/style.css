@@ -9880,26 +9880,6 @@ body {
   margin: 0;
 }
 
-.navbar {
-  background-color: #121619;
-  font-family: "Roboto", sans-serif;
-}
-
-.nav-link {
-  color: #fff;
-}
-.nav-link:hover {
-  color: #ecbcba;
-}
-
-.fa-bars {
-  color: #fff;
-}
-
-.navbar-brand-img {
-  width: 3em;
-}
-
 .header {
   height: 100vh;
   background-image: url("../img/post-image.jpg");
@@ -10042,6 +10022,26 @@ p {
 .main_section_row-btn-gray:hover {
   background-color: #d1d1d1;
   color: #fff;
+}
+
+.navbar {
+  background-color: #121619;
+  font-family: "Roboto", sans-serif;
+}
+
+.nav-link {
+  color: #fff;
+}
+.nav-link:hover {
+  color: #ecbcba;
+}
+
+.fa-bars {
+  color: #fff;
+}
+
+.navbar-brand-img {
+  width: 3em;
 }
 
 /*# sourceMappingURL=style.css.map */
