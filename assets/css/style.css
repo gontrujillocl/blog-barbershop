@@ -10017,11 +10017,12 @@ p {
   background-color: #6c6e70;
   color: #fff;
   font-size: 14px;
-  padding: 0.5em;
+  padding: 0.9em;
 }
 .main_section_row-btn-gray:hover {
-  background-color: #d1d1d1;
+  background-color: #6c6e70;
   color: #fff;
+  opacity: 0.9;
 }
 
 .navbar {
