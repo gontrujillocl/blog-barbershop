@@ -10045,4 +10045,11 @@ p {
   width: 3em;
 }
 
+.show > .nav-link,
+.active > .nav-link,
+.nav-link.show,
+.nav-link.active {
+  color: #d76c69 !important;
+}
+
 /*# sourceMappingURL=style.css.map */

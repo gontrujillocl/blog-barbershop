@@ -18,3 +18,10 @@
 .navbar-brand-img {
     width: 3em;
 }
+
+.show > .nav-link,
+        .active > .nav-link,
+        .nav-link.show,
+        .nav-link.active {
+          color: $ruddy-pink !important;
+        }
